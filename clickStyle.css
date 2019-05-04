@@ -1,0 +1,89 @@
+#body {
+    background-color: black;
+}
+.container {
+    display: grid;
+    height: 900px;
+    width: 75%;
+    border: 1px solid red;
+    background-image: linear-gradient(navy, navy, maroon, yellow, lightgoldenrodyellow, blue, navy, navy);
+}
+#namePlate {
+    font-size: 5em;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+#spoonCounter, #cupCounter, #bucketCounter, #tubCounter, #tankCounter {
+    font-size: 1.2em;
+    color: greenyellow;
+    background-color: black;
+    height: 1.3em;
+    width: 3em;
+}
+#powerUps1 {
+    margin-left: 25%;
+    margin-top: -33%;
+}
+#powerUps2 {
+    margin-top: -33%;
+    margin-left: 45%;
+}
+#alreadyEmptied {
+    background-color: black;
+    height: 100%;
+    width: 50%;
+    border: 1px solid black;
+    color: white;
+    margin-left: 3em;
+    font-size: 1.5em;
+    text-align: center;
+}
+#toolPlate {
+    margin-left: 2.5em;
+}
+#tapper {
+    height: 4em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}
+#addCup {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}
+#addBucket {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}#addTub {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}#addTank {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}#addPool {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}
+#addPump {
+    height: 3em;
+    width: 7.5em;
+    position: relative;
+    margin-left: 5em;
+    margin-top: -1em;
+}
